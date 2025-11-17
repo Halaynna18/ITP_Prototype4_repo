@@ -386,7 +386,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SpawnManager
   enemyPrefab: {fileID: 9004591074087072676, guid: 8657b2a41c4b85442bb65db255a31e4c, type: 3}
   powerupPrefab: {fileID: 3614790304401408098, guid: 9de963d7e2f83f74c9cc2fa817d78b0c, type: 3}
-  enemyCount: 0
+  enemyCount: 1
   waveNumber: 1
 --- !u!4 &787145389
 Transform:
